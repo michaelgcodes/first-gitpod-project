@@ -1,3 +1,2 @@
-# first-gitpod-project
-Welcome
+# Welcome
 To My Very First, or rather second website I create with Code Institute!
